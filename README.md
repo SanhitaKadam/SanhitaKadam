@@ -1,24 +1,154 @@
-# 💫 About Me:
-🔭 I’m currently working on About Me<br><br><br>🎓 Computer Engineering student at Savitribai Phule Pune University (2023–2027)<br>💻 I build full-stack, database-driven applications — from React interfaces to Java backend services<br>🔭 I've worked on projects spanning banking systems, AI email automation, event management, and AI-powered sustainability tools<br>🌱 Currently exploring Agentic AI, prompt engineering, and automation with n8n and the Gemini API<br>🧠 Strong foundation in DSA — 5⭐ Golden Badge in C++ on HackerRank (100+ algorithmic challenges solved)<br>💬 Ask me about React, Java/Spring Boot, MySQL database design, or AI API integrations<br>⚡ Fun fact: I've analyzed NVIDIA GTC sessions on zetta-scale AI infrastructure and digital twins for fun<br>
+<div align="center">
 
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00d9ff&height=250&section=header&text=Sanhita%20Kadam&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=●%20Fullstack%20Developer%20●%20Java%20%26%20React%20●%20AI%20Enthusiast%20●&descSize=15&descAlignY=65&descAlign=50&stroke=00d9ff&strokeWidth=2)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanhita_kadam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanhita-kadam-6920a52b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanhitabkadam@gmail.com) 
+<a href="https://github.com/yourusername">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=2000&pause=400&color=00D9FF&center=true&vCenter=true&width=600&lines=building+full-stack+apps%2C+one+commit+at+a+time+%F0%9F%9A%80;React+%2B+Java+%2B+MySQL+%3D+%E2%9D%A4%EF%B8%8F;DSA+by+day%2C+agentic+AI+by+night+%F0%9F%A7%A0;sanhita.build(ideas).ship()+%E2%9A%A1;5%E2%98%85+C%2B%2B+on+HackerRank+%F0%9F%94%A5"/>
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=plastic&logo=stylus&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SanhitaKadam&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SanhitaKadam&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SanhitaKadam&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SanhitaKadam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://komarev.com/ghpvc/?username=yourusername&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/yourusername)
+[![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=00cfff&labelColor=0d1117&label=FOLLOWERS&logo=github)](https://github.com/yourusername?tab=followers)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SanhitaKadam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+</p>
+
+- 📍 **From:** Maharashtra, India 🇮🇳
+- 🎓 **Role:** Computer Engineering Student @ Savitribai Phule Pune University (2023–2027)
+- 🚀 **Mantra:** ship working software, then optimize
+- 🧠 **Learning:** Agentic AI · Prompt Engineering · System Design
+- 🤝 **Open to:** Fullstack roles · Internships · Open Source Collaboration
+- 😅 **Fact:** taught an AI agent to triage my inbox before I learned to triage my own
+- 💀 **Status:** debugging ACID transactions at 1 AM
+
+---
+
+## ⚡ What I Ship
+
+| Project | Tech | Highlights |
+|---|---|---|
+| 🏦 **[Online Banking System](https://github.com/yourusername)** — secure MVC banking web app | `Java` `J2EE` `Servlets` `JSP` `MySQL` | ACID-compliant JDBC transactions under concurrent load |
+| 📧 **[AI Email Automation Agent](https://github.com/yourusername)** — Gmail triage + AI drafting | `n8n` `Gemini API` `Gmail API` `OAuth 2.0` | Multi-stage workflow, sentiment analysis, auto-drafts |
+| 🎟️ **[EventX — Venue Management System](https://github.com/yourusername)** — event platform | `Java` `JSP` `Servlets` `MySQL` | Dynamic workflows, multi-entity relational DB design |
+| ♻️ **[AI Waste Classification Suite](https://github.com/yourusername)** — plastic/metal/organic sorter | `Python` `Meta Llama 3.2` `Streamlit` | Lightweight 3B model tuned for low-resource devices |
+
+---
+
+## 🏅 Achievements
+
+- 🎤 **NVIDIA GTC 2026 AI Conference** — analyzed advanced sessions on Agentic AI, Digital Twins & Industrial Orchestration, exploring zetta-scale AI infrastructure
+- 📈 **McKinsey Forward Program** — completing the Foundation phase, focused on Adaptability, Resilience & Business Problem-Solving
+- 🥇 **5★ Golden Badge in C++ (HackerRank)** — 100+ algorithmic challenges solved
+- 🧩 **Problem Solving Excellence** — top performer in competitive coding modules with consistently optimized code
+
+---
+
+## 🛠 Tech Stack
+
+### 👩‍💻 Core Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Servlets/JSP](https://img.shields.io/badge/Servlets%2FJSP-00D9FF?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-00CFFF?style=for-the-badge)
+
+---
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 🤖 AI & Automation
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00FF88?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FFD21E?style=for-the-badge)
+![Llama 3.2](https://img.shields.io/badge/Meta%20Llama%203.2-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🧠 Concepts
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF9800?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-9C27B0?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-00D9FF?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true&background=0a0a0f&stroke=00d9ff&ring=00cfff&fire=ff4466&currStreakLabel=00d9ff" width="55%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/yourusername)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sanhitakadam" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sanhitabkadam@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:00d9ff&height=120&section=footer&desc=thanks+for+visiting+—+let's+build+something+%F0%9F%9A%80&descSize=14&descAlignY=65&fontColor=ffffff)
+
+</div>
