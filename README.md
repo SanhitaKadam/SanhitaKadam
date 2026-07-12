@@ -110,7 +110,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanhitaKadam&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SanhitaKadam&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00d9ff&icon_color=00cfff&text_color=ffffff" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SanhitaKadam&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00d9ff&text_color=ffffff" width="45%"/>
 </p>
 
 ---
@@ -118,19 +119,8 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SanhitaKadam&theme=radical&hide_border=true&background=0a0a0f&stroke=00d9ff&ring=00cfff&fire=ff4466&currStreakLabel=00d9ff" width="55%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SanhitaKadam&theme=radical&hide_border=true&background=0a0a0f&stroke=00d9ff&ring=00cfff&fire=ff4466&currStreakLabel=00d9ff" width="55%"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavv-labs&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/vaibhavv-labs)
-
-</div>
-
 
 ---
 
